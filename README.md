@@ -1,0 +1,2 @@
+# TimePad
+这是TIMEBOOK开发的一款Windows系统文本编辑器
